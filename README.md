@@ -148,62 +148,62 @@ The database `student_tracker` contains **7 inter-related tables**:
 ## 🖼️ Sample Query Outputs
 
 ### 📋 Database Tables Overview
-![Database Tables and Faculty Data](screenshots/01_tables_faculty_students.png)
+![Database Tables and Faculty Data](screenshots/01_tables_faculty_students.webp)
 
 ---
 
 ### 🏆 Top Performers & Attendance Summary
-![Top Performers](screenshots/02_top_performers_attendance.png)
+![Top Performers](screenshots/02_top_performers_attendance.webp)
 
 ---
 
 ### 📉 Low Attendance & At-Risk Students
-![Low Attendance Students](screenshots/03_low_attendance_atrisk.png)
+![Low Attendance Students](screenshots/03_low_attendance_atrisk.webp)
 
 ---
 
 ### 📧 Student Info with NULL Handling
-![Student Info with NULL](screenshots/04_student_info_null_handling.png)
+![Student Info with NULL](screenshots/04_student_info_null_handling.webp)
 
 ---
 
 ### 📊 Department-wise Student Count & Course Averages
-![Department and Course Stats](screenshots/05_department_course_stats.png)
+![Department and Course Stats](screenshots/05_department_course_stats.webp)
 
 ---
 
 ### 👨‍🏫 Faculty-Course-Department Mapping
-![Faculty Course Mapping](screenshots/06_faculty_course_department.png)
+![Faculty Course Mapping](screenshots/06_faculty_course_department.webp)
 
 ---
 
 ### 🔗 All Students with Department (LEFT JOIN)
-![Student Department Join](screenshots/07_student_department_join.png)
+![Student Department Join](screenshots/07_student_department_join.webp)
 
 ---
 
 ### 📈 Student Marks — All Enrolled
-![Student Marks](screenshots/08_student_marks_experience.png)
+![Student Marks](screenshots/08_student_marks_experience.webp)
 
 ---
 
 ### 📆 Monthly Attendance Report & Admission Timeline
-![Monthly Attendance](screenshots/09_monthly_attendance_timeline.png)
+![Monthly Attendance](screenshots/09_monthly_attendance_timeline.webp)
 
 ---
 
 ### 🔠 String Functions — UPPER, TRIM, COALESCE
-![String Functions](screenshots/10_string_functions.png)
+![String Functions](screenshots/10_string_functions.webp)
 
 ---
 
 ### 🪟 Window Functions — RANK & Running Total
-![Window Functions Rank](screenshots/11_window_functions_rank.png)
+![Window Functions Rank](screenshots/11_window_functions_rank.webp)
 
 ---
 
 ### 🎯 CASE Statements — Performance & Attendance Categories
-![CASE Performance](screenshots/12_case_performance_attendance.png)
+![CASE Performance](screenshots/12_case_performance_attendance.webp)
 
 ---
 
@@ -240,18 +240,18 @@ Student_performance_and_attendance_tracker/
 │
 ├── 📄 student_tracker.sql        # Main SQL file (schema + data + queries)
 ├── 📁 screenshots/               # Output screenshots (12 images)
-│   ├── 01_tables_faculty_students.png
-│   ├── 02_top_performers_attendance.png
-│   ├── 03_low_attendance_atrisk.png
-│   ├── 04_student_info_null_handling.png
-│   ├── 05_department_course_stats.png
-│   ├── 06_faculty_course_department.png
-│   ├── 07_student_department_join.png
-│   ├── 08_student_marks_experience.png
-│   ├── 09_monthly_attendance_timeline.png
-│   ├── 10_string_functions.png
-│   ├── 11_window_functions_rank.png
-│   └── 12_case_performance_attendance.png
+│   ├── 01_tables_faculty_students.webp
+│   ├── 02_top_performers_attendance.webp
+│   ├── 03_low_attendance_atrisk.webp
+│   ├── 04_student_info_null_handling.webp
+│   ├── 05_department_course_stats.webp
+│   ├── 06_faculty_course_department.webp
+│   ├── 07_student_department_join.webp
+│   ├── 08_student_marks_experience.webp
+│   ├── 09_monthly_attendance_timeline.webp
+│   ├── 10_string_functions.webp
+│   ├── 11_window_functions_rank.webp
+│   └── 12_case_performance_attendance.webp
 ├── 📁 demo/
 │   └── project_demo.mp4          # Screen recording walkthrough
 └── 📄 README.md
